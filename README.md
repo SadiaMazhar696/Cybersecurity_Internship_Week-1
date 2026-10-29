@@ -1,2 +1,3 @@
-# Cybersecurity_Internship_Week-1
-Week 1 Cybersecurity lab tasks
+This week I worked on setting up my cybersecurity virtual lab environment using Oracle VirtualBox on a Windows 10 host system. I successfully installed and configured Kali Linux as the main guest operating system to handle future practical tasks and analysis.
+
+After completing the setup, I opened the Kali Linux terminal and ran the ip a command to check the network interface details and confirm the assigned IP address. Once the network configuration was verified, I tested the connectivity by executing ping -c 4 10.0.0.1. The test completed with 0% packet loss, confirming a stable connection between the host system and the virtual machine. All necessary screenshots and execution logs have been added to this repository.
